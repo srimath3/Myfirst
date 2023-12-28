@@ -24,12 +24,12 @@ public class Demo {
 		Mobile mobile= new Mobile();
 		mobile.brand="Vivo";
 		mobile.count=5;
-		Mobile.name="Andriod";
+		Mobile.name="AndriodPhone";
 		
 		Mobile mobile1 = new Mobile();
 		mobile1.brand="Oppo";
 		mobile1.count=10;
-		mobile1.name="Andriod";
+		mobile1.name="AndriodPhone";
 		
 		
 		mobile.MobileService();
