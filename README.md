@@ -1,1 +1,4 @@
-/About learnings and demo projects/
+*About learnings and demo projects*
+
+LeetCode
+Java
